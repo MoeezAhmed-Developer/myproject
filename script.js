@@ -729,3 +729,5 @@
 
 // const twoNum = two(5);
 // console.log(twoNum);
+
+console.log("hi");
